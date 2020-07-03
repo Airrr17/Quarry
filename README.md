@@ -60,5 +60,5 @@ Just name it "levelXX" 01 to 99 save on SD and reset.
 **YOU NEED to adjust analog buttons values in the code as all resistors are different.  
   
   video:  
-  https://studio.youtube.com/video/wPVtNHVkfvM/edit  
+  https://www.youtube.com/watch?v=wPVtNHVkfvM    
     
